@@ -33,7 +33,7 @@ Il modulo viene distribuito gratuitamente tramite l'area clienti SoluzioniPHP.
 
 Per scaricare il modulo:
 
-https://myportal.soluzioniphp.it
+[https://myportal.soluzioniphp.it](https://myportal.soluzioniphp.it/index.php?rp=/store/moduli-gratuiti/sumup-per-magento-2)
 
 ## Installazione
 
